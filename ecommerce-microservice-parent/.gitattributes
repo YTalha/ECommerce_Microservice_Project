@@ -1,0 +1,8 @@
+# Satır sonu karakterleri
+* text=auto
+
+# Binary dosyalar (bunlar otomatik dönüştürülmez)
+*.bin binary
+*.jpg binary
+*.png binary
+*.pdf binary
